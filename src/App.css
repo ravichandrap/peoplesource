@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+
+.user {
+  margin-top: 10px;
+}
+
+.user-dark {
+  background-color: lightblue;
+}
+.user-lite {
+  background-color: lightgray;
+}
+
+.head {
+  margin-bottom: 10px;
+}
+
+.head-left {
+  margin-left: 5px;
+}
